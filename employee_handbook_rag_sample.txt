@@ -1,0 +1,73 @@
+EMPLOYEE HANDBOOK: LEAVE, ATTENDANCE, AND WORKPLACE POLICIES
+
+Document ID: HR-POL-001
+Version: 1.0
+Effective Date: 1 January 2026
+Department: Human Resources
+Applies To: All full-time employees
+
+1. PURPOSE
+This handbook explains the company's basic leave, attendance, remote-work, and employee-support policies. Employees should contact Human Resources if they need clarification. This sample document is for RAG application testing and is not a real company's official policy.
+
+2. ANNUAL LEAVE
+Full-time employees receive 18 paid annual leave days per calendar year. Employees joining partway through the year receive leave on a prorated basis. Leave should be requested through the employee portal at least three working days before the planned absence whenever possible.
+
+Unused annual leave may be carried forward to the next calendar year, up to a maximum of 5 days. Any carried-forward leave must be used by 31 March. Leave beyond this limit expires unless Human Resources has approved an exception in writing.
+
+3. SICK LEAVE
+Employees may take up to 8 paid sick leave days per calendar year. Employees should notify their manager as soon as possible on the first day of absence. For an illness lasting more than three consecutive working days, Human Resources may request a medical certificate, subject to applicable law and company procedure.
+
+Sick leave is intended for an employee's illness or medical appointment. It cannot be converted into cash at the end of the year.
+
+4. PUBLIC HOLIDAYS
+The company publishes an annual holiday calendar in December for the following year. The calendar lists the official company holidays and any location-specific holidays. Employees should check the current calendar rather than relying on a previous year's list.
+
+5. LEAVE APPROVAL
+Employees must submit planned leave requests through the employee portal. The direct manager reviews the request based on team coverage and business needs. A request is approved only after the employee receives confirmation in the portal or by an authorized written message.
+
+For emergencies, employees should inform their manager by phone or message as soon as reasonably possible and complete the portal request when they are able to return.
+
+6. WORKING HOURS AND ATTENDANCE
+Standard working hours are 9:30 a.m. to 6:00 p.m., Monday through Friday, with a 30-minute lunch break. Some teams may follow a different schedule approved by their department head.
+
+Employees should record attendance using the company attendance system. If a system problem prevents attendance recording, the employee should notify their manager and the IT help desk on the same working day.
+
+7. REMOTE WORK
+Eligible employees may work remotely up to two days per week with prior manager approval. Remote-work eligibility depends on role requirements, information-security obligations, and team arrangements. Employees must be reachable during their agreed working hours and protect company information when working outside the office.
+
+Working remotely is not automatic approval to work from another country. International remote work requires written approval from Human Resources and the relevant department head.
+
+8. EXPENSE REIMBURSEMENT
+Business expenses must be submitted through the expense portal within 30 calendar days of the transaction. Each claim must include an itemized receipt and a short business purpose. Manager approval is required before Finance processes reimbursement.
+
+Personal purchases, traffic fines, and expenses without sufficient supporting documentation are not reimbursable under this sample policy.
+
+9. IT AND INFORMATION SECURITY
+Employees must use company-approved applications to store or share confidential business information. Passwords must not be shared. Suspicious emails, unexpected login prompts, and suspected data loss should be reported to the IT help desk immediately.
+
+Employees should lock their screens when away from their devices and install security updates when requested by IT. Company files should not be copied to personal cloud storage without written authorization.
+
+10. LEARNING AND DEVELOPMENT
+Employees may request up to INR 15,000 per financial year for approved job-related courses or certifications. The employee must obtain manager approval before enrolling. Reimbursement requires proof of payment and successful completion, unless an exception is approved in writing.
+
+The learning budget cannot be used for personal entertainment subscriptions or unrelated purchases.
+
+11. EMPLOYEE SUPPORT CONTACTS
+For leave, attendance, or benefits questions, contact Human Resources at hr@example.com.
+For password, laptop, or software issues, contact the IT help desk at it-helpdesk@example.com.
+For expense claims, contact Finance at finance@example.com.
+
+These email addresses are fictional placeholders for testing. Do not send real employee information to them.
+
+12. QUICK FACTS
+- Annual paid leave: 18 days per calendar year for full-time employees.
+- Maximum annual leave carry-forward: 5 days.
+- Carry-forward expiry date: 31 March.
+- Paid sick leave: up to 8 days per calendar year.
+- Standard working hours: 9:30 a.m. to 6:00 p.m., Monday to Friday.
+- Remote work: up to 2 days per week for eligible employees, with prior approval.
+- Expense submission deadline: within 30 calendar days.
+- Annual learning and development budget: INR 15,000, with prior approval.
+
+13. IMPORTANT NOTE
+This is a fictional sample document created for testing a Retrieval-Augmented Generation (RAG) document question-answering system. It is not legal, medical, or employment advice and should not be treated as an official policy.
